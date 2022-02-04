@@ -1,6 +1,4 @@
-# Math-23C-Project
-Amateur Quants hard at work. By Derl Clausen, Bruno Kömel, and Rakeen Tanvir
-
+Description: Reviewed literature and tested for infinite variance in Dow Jones Industrial financial time series data
 
 Overleaf editing link: https://www.overleaf.com/8233354918khbqxybbwhbp
 
