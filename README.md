@@ -1,8 +1,11 @@
 Description: Reviewed literature and tested for infinite variance in Dow Jones Industrial financial time series data
 
 Primary files: 
+
 Main.R (main script)
+
 Report.Rmd (main analysis notebook)
+
 Report.pdf (export of .Rmd file)
 
 Overleaf editing link: https://www.overleaf.com/8233354918khbqxybbwhbp
