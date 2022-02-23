@@ -1,31 +1,70 @@
-Description: Reviewed literature and tested for infinite variance in Dow Jones Industrial financial time series data
+# Is there infinite variance in financial market time series data?
 
-Primary files: 
+## Primary files
 
 Main.R (main script)
 
 Report.Rmd (main analysis notebook)
 
-Report.pdf (export of .Rmd file)
+Report.pdf and Report.html (export of .Rmd file)
+
+Hand-Out.pdf (Article paper write-up)
+
+## Outline
+
+1. Exploratory Data Analysis
+
+2. The Impact of "Rare" Events
+
+3. Linear and Logistic Regression
+
+4. Fourier Analysis
+
+5. Random Walk
+
+6. Normal Distribution
+
+7. Fractal Analysis
+
+8. Cauchy Distribution
+
+9. Bootstrap
+
+10. Partial Variance
+
+11. Divergent Integration
+
+12. Stable Distribution
+
+13. KS Test / Chi-Squared Test (Chi-square Test on Varying Time Scales) / Complexities of Goodness of Fit Test
+
+14. The Impact of Political Regimes - Hypothesis Testing With Permutation Test
+
+15. Hypothesis Testing: Contingency table with chi-square test
 
 Overleaf editing link: https://www.overleaf.com/8233354918khbqxybbwhbp
 
-Good Articles:
+## References
+
+### Articles
+
 https://www.investopedia.com/articles/trading/06/fractals.asp
+
 https://www.scientificamerican.com/article/multifractals-explain-wall-street/
+
 https://www.investopedia.com/terms/f/fractal-markets-hypothesis-fmh.asp
+
 https://towardsdatascience.com/how-the-mathematics-of-fractals-can-help-predict-stock-markets-shifts-19fee5dd6574
+
 https://stats.stackexchange.com/questions/2504/test-for-finite-variance
 
+### Papers
 
-Papers:
 How to Define Mean, Variance, etc., for
 Heavy-Tailed Distributions: A Fractal-Motivated
 Approach - http://www.cs.utep.edu/vladik/2012/tr12-32.pdf
 
-MEASURING THE EFFECTS OF MONETARY POLICY:
-A FACTOR-AUGMENTED VECTOR
-AUTOREGRESSIVE (FAVAR) APPROACH - https://www.nber.org/papers/w10220.pdf
+MEASURING THE EFFECTS OF MONETARY POLICY: A FACTOR-AUGMENTED VECTOR AUTOREGRESSIVE (FAVAR) APPROACH - https://www.nber.org/papers/w10220.pdf
 
 M. Mahdizadeh, Ehsan Zamanzade,
 Goodness-of-fit testing for the Cauchy distribution with application to financial modeling,
@@ -73,6 +112,7 @@ Howard M. Taylor, Cornell University, Ithaca New York
 Operations Research, Vol. 15, No. 6, November-December 1967, pp. 1057-1062
 https://users.math.yale.edu/mandelbrot/web_pdfs/050onthedistribution.pdf
 
-Books:
+### Books
+
 The (Mis)behavior of Markets by Benoit Mandelbrot:
 https://dichgiacamchi.files.wordpress.com/2015/01/the_misbehavior_of_markets_-_benoit_mandelbrot.pdf
